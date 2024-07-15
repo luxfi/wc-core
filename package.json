@@ -61,6 +61,5 @@
     "@luxfi/wc-socket-transport": "^1.8.10",
     "@luxfi/wc-types": "^1.8.10",
     "@luxfi/wc-utils": "^1.8.10"
-  },
-  "gitHead": "165f7993c2acc907c653c02847fb02721052c6e7"
+  }
 }
