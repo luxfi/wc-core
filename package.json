@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/wc-core",
-  "version": "1.8.10",
+  "name": "@luxwallet/wc-core",
+  "version": "1.8.11",
   "description": "Core Library for WalletConnect",
   "publishConfig": {
     "access": "public"
