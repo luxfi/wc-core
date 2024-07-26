@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const wc_utils_1 = require("@luxfi/wc-utils");
+const wc_utils_1 = require("@luxwallet/wc-utils");
 class EventManager {
     constructor() {
         this._eventEmitters = [];

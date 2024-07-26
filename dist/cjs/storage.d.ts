@@ -1,4 +1,4 @@
-import { IWalletConnectSession } from "@luxfi/wc-types";
+import { IWalletConnectSession } from "@luxwallet/wc-types";
 declare class SessionStorage {
     storageId: string;
     constructor(storageId?: string);

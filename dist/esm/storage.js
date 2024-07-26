@@ -1,4 +1,4 @@
-import { isWalletConnectSession, getLocal, setLocal, removeLocal } from "@luxfi/wc-utils";
+import { isWalletConnectSession, getLocal, setLocal, removeLocal } from "@luxwallet/wc-utils";
 class SessionStorage {
     constructor(storageId = "walletconnect") {
         this.storageId = storageId;

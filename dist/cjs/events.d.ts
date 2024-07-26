@@ -1,4 +1,4 @@
-import { IInternalEvent, IJsonRpcResponseSuccess, IJsonRpcResponseError, IJsonRpcRequest, IEventEmitter } from "@luxfi/wc-types";
+import { IInternalEvent, IJsonRpcResponseSuccess, IJsonRpcResponseError, IJsonRpcRequest, IEventEmitter } from "@luxwallet/wc-types";
 declare class EventManager {
     private _eventEmitters;
     constructor();

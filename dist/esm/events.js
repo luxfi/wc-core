@@ -1,4 +1,4 @@
-import { isJsonRpcRequest, isJsonRpcResponseSuccess, isJsonRpcResponseError, isInternalEvent, isReservedEvent, } from "@luxfi/wc-utils";
+import { isJsonRpcRequest, isJsonRpcResponseSuccess, isJsonRpcResponseError, isInternalEvent, isReservedEvent, } from "@luxwallet/wc-utils";
 class EventManager {
     constructor() {
         this._eventEmitters = [];

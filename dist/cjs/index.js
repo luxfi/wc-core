@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const tslib_1 = require("tslib");
-const wc_utils_1 = require("@luxfi/wc-utils");
-const wc_socket_transport_1 = tslib_1.__importDefault(require("@luxfi/wc-socket-transport"));
+const wc_utils_1 = require("@luxwallet/wc-utils");
+const wc_socket_transport_1 = tslib_1.__importDefault(require("@luxwallet/wc-socket-transport"));
 const errors_1 = require("./errors");
 const events_1 = tslib_1.__importDefault(require("./events"));
 const storage_1 = tslib_1.__importDefault(require("./storage"));
